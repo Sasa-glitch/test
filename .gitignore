@@ -1,0 +1,4 @@
+known.txt 
+*.log
+!*vip.log 
+/newRepo/
